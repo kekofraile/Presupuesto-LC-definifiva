@@ -1,8 +1,9 @@
 const CACHE_NAME = 'presupuesto-lc-cache-v1';
+const BASE_URL = new URL('./', self.location.href).pathname;
 const OFFLINE_ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.webmanifest'
+  BASE_URL,
+  `${BASE_URL}index.html`,
+  `${BASE_URL}manifest.webmanifest`,
 ];
 
 self.addEventListener('install', (event) => {
@@ -44,7 +45,7 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, cloned));
           return response;
         })
-        .catch(() => caches.match('/index.html'));
+        .catch(() => caches.match(`${BASE_URL}index.html`));
     })
   );
 });
