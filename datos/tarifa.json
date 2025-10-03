@@ -1,0 +1,809 @@
+{
+  "metadata": {
+    "anio": 2024,
+    "fecha_carga": "2025-09-30T18:28:52.223Z",
+    "fuente": "TARIFA LC EXCEL 2024.xlsx"
+  },
+  "productos": [
+    {
+      "id": "PREC30",
+      "codigo": "PREC30",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "PRECISION 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 27
+    },
+    {
+      "id": "PREC90",
+      "codigo": "PREC90",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "PRECISION 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 74
+    },
+    {
+      "id": "TOT30",
+      "codigo": "TOT30",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 32
+    },
+    {
+      "id": "TOT90",
+      "codigo": "TOT90",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 87
+    },
+    {
+      "id": "ULT30",
+      "codigo": "ULT30",
+      "marca": "BAUSCH & LOMB",
+      "modalidad": "diaria",
+      "producto": "ULTRA 1DAY 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 33
+    },
+    {
+      "id": "ULT90",
+      "codigo": "ULT90",
+      "marca": "BAUSCH & LOMB",
+      "modalidad": "diaria",
+      "producto": "ULTRA 1DAY 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 86
+    },
+    {
+      "id": "HID30",
+      "codigo": "HID30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "HIDROGEL 30LC (BIOMEDIC 1DAY EXTRA)",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 17
+    },
+    {
+      "id": "HID90",
+      "codigo": "HID90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "HIDROGEL 90LC (BIOMEDIC 1DAY EXTRA)",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 44
+    },
+    {
+      "id": "PRE30",
+      "codigo": "PRE30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA (OPTIONS) 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 23
+    },
+    {
+      "id": "PRE90",
+      "codigo": "PRE90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA (OPTIONS) 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 63
+    },
+    {
+      "id": "TEC30",
+      "codigo": "TEC30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO SILICONA (MYDAY) 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 26
+    },
+    {
+      "id": "TEC90",
+      "codigo": "TEC90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO SILICONA (MYDAY) 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 72
+    },
+    {
+      "id": "ACU30",
+      "codigo": "ACU30",
+      "marca": "JOHNSON & JOHNSON",
+      "modalidad": "diaria",
+      "producto": "ACUVUE OASYS 1 DAY 30LC",
+      "tipo": "esferica",
+      "pack": 30,
+      "precio": 32
+    },
+    {
+      "id": "ACU90",
+      "codigo": "ACU90",
+      "marca": "JOHNSON & JOHNSON",
+      "modalidad": "diaria",
+      "producto": "ACUVUE OASYS 1 DAY 90LC",
+      "tipo": "esferica",
+      "pack": 90,
+      "precio": 84
+    },
+    {
+      "id": "PRECT30",
+      "codigo": "PRECT30",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "PRECISION TORIC 30LC",
+      "tipo": "torica",
+      "pack": 30,
+      "precio": 36
+    },
+    {
+      "id": "PRECT90",
+      "codigo": "PRECT90",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "PRECISION TORIC 90LC",
+      "tipo": "torica",
+      "pack": 90,
+      "precio": 97
+    },
+    {
+      "id": "TOTT30",
+      "codigo": "TOTT30",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE TORIC 30LC",
+      "tipo": "torica",
+      "pack": 30,
+      "precio": 42
+    },
+    {
+      "id": "TOTT90",
+      "codigo": "TOTT90",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE TORIC 90LC",
+      "tipo": "torica",
+      "pack": 90,
+      "precio": 118
+    },
+    {
+      "id": "PRET30",
+      "codigo": "PRET30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA TORIC (CLARITY) 30LC",
+      "tipo": "torica",
+      "pack": 30,
+      "precio": 37
+    },
+    {
+      "id": "PRET90",
+      "codigo": "PRET90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA TORIC (CLARITY) 90LC",
+      "tipo": "torica",
+      "pack": 90,
+      "precio": 99
+    },
+    {
+      "id": "TECT30",
+      "codigo": "TECT30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO TORIC SILICONA (MYDAY) 30LC",
+      "tipo": "torica",
+      "pack": 30,
+      "precio": 39.8
+    },
+    {
+      "id": "TECT90",
+      "codigo": "TECT90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO TORIC SILICONA (MYDAY) 90LC",
+      "tipo": "torica",
+      "pack": 90,
+      "precio": 113.8
+    },
+    {
+      "id": "BIOT30",
+      "codigo": "BIOT30",
+      "marca": "COOPERVISION",
+      "modalidad": "diaria",
+      "producto": "BIOMEDIC 1DAY EXTRA TORIC 30LC",
+      "tipo": "torica",
+      "pack": 30,
+      "precio": 34
+    },
+    {
+      "id": "BIOT90",
+      "codigo": "BIOT90",
+      "marca": "COOPERVISION",
+      "modalidad": "diaria",
+      "producto": "BIOMEDIC 1DAY EXTRA TORIC 90LC",
+      "tipo": "torica",
+      "pack": 90,
+      "precio": 91
+    },
+    {
+      "id": "TOTM30",
+      "codigo": "TOTM30",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE MULTIFOCAL 30LC",
+      "tipo": "multifocal",
+      "pack": 30,
+      "precio": 47
+    },
+    {
+      "id": "TOTM90",
+      "codigo": "TOTM90",
+      "marca": "ALCON",
+      "modalidad": "diaria",
+      "producto": "TOTAL ONE MULTIFOCAL 90LC",
+      "tipo": "multifocal",
+      "pack": 90,
+      "precio": 128
+    },
+    {
+      "id": "PREM30",
+      "codigo": "PREM30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA MULTIFOCAL (CLARITY) 30LC",
+      "tipo": "multifocal",
+      "pack": 30,
+      "precio": 38
+    },
+    {
+      "id": "PREM90",
+      "codigo": "PREM90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "PREMIUM SILICONA MULTIFOCAL (CLARITY) 90LC",
+      "tipo": "multifocal",
+      "pack": 90,
+      "precio": 102
+    },
+    {
+      "id": "TECM30",
+      "codigo": "TECM30",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO MULTIFOCAL SILICONA (MYDAY) 30LC",
+      "tipo": "multifocal",
+      "pack": 30,
+      "precio": 46
+    },
+    {
+      "id": "TECM90",
+      "codigo": "TECM90",
+      "marca": "CIONE",
+      "modalidad": "diaria",
+      "producto": "TECHNO MULTIFOCAL SILICONA (MYDAY) 90LC",
+      "tipo": "multifocal",
+      "pack": 90,
+      "precio": 124
+    },
+    {
+      "id": "FREC10",
+      "codigo": "FREC10",
+      "marca": "OTHERS",
+      "modalidad": "diaria",
+      "producto": "DISOP FANTASIA HALLOWEEN DIARIA 2LC",
+      "tipo": "color",
+      "pack": 2,
+      "precio": 15
+    },
+    {
+      "id": "FREC10-2",
+      "codigo": "FREC10",
+      "marca": "OTHERS",
+      "modalidad": "diaria",
+      "producto": "QUANTUM CRAZY DIARIA GRADUADA 2LC",
+      "tipo": "color",
+      "pack": 2,
+      "precio": 25
+    },
+    {
+      "id": "FREC10-3",
+      "codigo": "FREC10",
+      "marca": "OTHERS",
+      "modalidad": "diaria",
+      "producto": "QUANTUM CRAZY DIARIA 2LC",
+      "tipo": "color",
+      "pack": 2,
+      "precio": 19
+    },
+    {
+      "id": "PRE712",
+      "codigo": "PRE712",
+      "marca": "ALCON",
+      "modalidad": "semanal",
+      "producto": "PRECISION7 12LC",
+      "tipo": "esferica",
+      "pack": 12,
+      "precio": 46.2
+    },
+    {
+      "id": "PRE727",
+      "codigo": "PRE727",
+      "marca": "ALCON",
+      "modalidad": "semanal",
+      "producto": "PRECISION7 27LC",
+      "tipo": "esferica",
+      "pack": 27,
+      "precio": 101
+    },
+    {
+      "id": "PRE7T12",
+      "codigo": "PRE7T12",
+      "marca": "ALCON",
+      "modalidad": "semanal",
+      "producto": "PRECISION7 TORIC 12LC",
+      "tipo": "torica",
+      "pack": 12,
+      "precio": 62
+    },
+    {
+      "id": "PRE7T27",
+      "codigo": "PRE7T27",
+      "marca": "ALCON",
+      "modalidad": "semanal",
+      "producto": "PRECISION7 TORIC 27LC",
+      "tipo": "torica",
+      "pack": 27,
+      "precio": 134
+    },
+    {
+      "id": "AIR3",
+      "codigo": "AIR3",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX HYDRAGLYDE 3LC",
+      "tipo": "esferica",
+      "pack": 3,
+      "precio": 26
+    },
+    {
+      "id": "AIR6",
+      "codigo": "AIR6",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX HYDRAGLYDE 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 45
+    },
+    {
+      "id": "TOT303",
+      "codigo": "TOT303",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 3LC",
+      "tipo": "esferica",
+      "pack": 3,
+      "precio": 28
+    },
+    {
+      "id": "TOT306",
+      "codigo": "TOT306",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 52
+    },
+    {
+      "id": "EYE6",
+      "codigo": "EYE6",
+      "marca": "Bausch & Lomb",
+      "modalidad": "mensual",
+      "producto": "EYECONFORT (ULTRA) 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 42
+    },
+    {
+      "id": "PRE3",
+      "codigo": "PRE3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM SILICONA (BIOFINITY) 3LC",
+      "tipo": "esferica",
+      "pack": 3,
+      "precio": 25
+    },
+    {
+      "id": "PRE6",
+      "codigo": "PRE6",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM SILICONA (BIOFINITY) 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 45
+    },
+    {
+      "id": "TECP3",
+      "codigo": "TECP3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "TECHNO SILICONA PANTALLA 3LC (BIOF. ENERGYS)",
+      "tipo": "esferica",
+      "pack": 3,
+      "precio": 27
+    },
+    {
+      "id": "TECP6",
+      "codigo": "TECP6",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "TECHNO SILICONA PANTALLA 6LC (BIOF. ENERGYS)",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 49
+    },
+    {
+      "id": "BIOXR3",
+      "codigo": "BIOXR3",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY XR 3LC",
+      "tipo": "esferica",
+      "pack": 3,
+      "precio": 29
+    },
+    {
+      "id": "BIOXR6",
+      "codigo": "BIOXR6",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY XR 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 56
+    },
+    {
+      "id": "PREUV6",
+      "codigo": "PREUV6",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "PREMIUM UV 6LC",
+      "tipo": "esferica",
+      "pack": 6,
+      "precio": 36
+    },
+    {
+      "id": "ACU12",
+      "codigo": "ACU12",
+      "marca": "JOHNSON & JOHNSON",
+      "modalidad": "mensual",
+      "producto": "ACUVUE OASYS 12LC",
+      "tipo": "esferica",
+      "pack": 12,
+      "precio": 62
+    },
+    {
+      "id": "AIRT3",
+      "codigo": "AIRT3",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX TORIC HYDRAGLYDE 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 39
+    },
+    {
+      "id": "AIRT6",
+      "codigo": "AIRT6",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX TORIC HYDRAGLYDE 6LC",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 71
+    },
+    {
+      "id": "TOT30T3",
+      "codigo": "TOT30T3",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 TORIC 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 36
+    },
+    {
+      "id": "TOT30T6",
+      "codigo": "TOT30T6",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 TORIC 6LC",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 68
+    },
+    {
+      "id": "EYET6",
+      "codigo": "EYET6",
+      "marca": "Bausch & Lomb",
+      "modalidad": "mensual",
+      "producto": "EYECONFORT TORIC (ULTRA) 6LC",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 67
+    },
+    {
+      "id": "PRET3",
+      "codigo": "PRET3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM SILICONA TORIC (BIOFINITY) 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 38
+    },
+    {
+      "id": "PRET6",
+      "codigo": "PRET6",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM SILICONA TORIC (BIOFINITY) 6LC",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 72
+    },
+    {
+      "id": "PREH2O6",
+      "codigo": "PREH2O6",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM HIDROGEL H2O  TORIC 6LC (PROCLEAR)",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 64
+    },
+    {
+      "id": "TECT3",
+      "codigo": "TECT3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "TECHNO SILICONA TORIC (SAPHIR XR) 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 74
+    },
+    {
+      "id": "BIOXRT3",
+      "codigo": "BIOXRT3",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY TORIC XR 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 52
+    },
+    {
+      "id": "BIOXRT6",
+      "codigo": "BIOXRT6",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY TORIC XR 6LC",
+      "tipo": "torica",
+      "pack": 6,
+      "precio": 94
+    },
+    {
+      "id": "GENT3",
+      "codigo": "GENT3",
+      "marca": "MARK'ENNOVY",
+      "modalidad": "mensual",
+      "producto": "GENTLE 59 TORIC 3LC",
+      "tipo": "torica",
+      "pack": 3,
+      "precio": 82
+    },
+    {
+      "id": "AIRM3",
+      "codigo": "AIRM3",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX MULTIFOCAL HYDRAGLYDE 3LC",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 48
+    },
+    {
+      "id": "AIRM6",
+      "codigo": "AIRM6",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "AIR OPTIX MULTIFOCAL HYDRAGLYDE 6LC",
+      "tipo": "multifocal",
+      "pack": 6,
+      "precio": 80
+    },
+    {
+      "id": "TOT30M3",
+      "codigo": "TOT30M3",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 MULTIFOCAL 3LC",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 44
+    },
+    {
+      "id": "TOT30M6",
+      "codigo": "TOT30M6",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "TOTAL 30 MULTIFOCAL 6LC",
+      "tipo": "multifocal",
+      "pack": 6,
+      "precio": 84
+    },
+    {
+      "id": "EYEM6",
+      "codigo": "EYEM6",
+      "marca": "Bausch & Lomb",
+      "modalidad": "mensual",
+      "producto": "EYECONFORT MULTIFOCAL (ULTRA) 6LC",
+      "tipo": "multifocal",
+      "pack": 6,
+      "precio": 83
+    },
+    {
+      "id": "PREH2O3",
+      "codigo": "PREH2O3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM HIDROGEL H2O MULTIFOCAL 3LC (PROCLEAR)",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 41
+    },
+    {
+      "id": "PREH2O6-2",
+      "codigo": "PREH2O6",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "PREMIUM HIDROGEL H2O MULTIFOCAL 6LC (PROCLEAR)",
+      "tipo": "multifocal",
+      "pack": 6,
+      "precio": 74
+    },
+    {
+      "id": "TECM3",
+      "codigo": "TECM3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "TECHNO SILICIONA MULTIFOCAL (SAPHIR XR) 3LC",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 80
+    },
+    {
+      "id": "BIOM3",
+      "codigo": "BIOM3",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY MULTIFOCAL 3LC",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 42
+    },
+    {
+      "id": "BIOM6",
+      "codigo": "BIOM6",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY MULTIFOCAL 6LC",
+      "tipo": "multifocal",
+      "pack": 6,
+      "precio": 77
+    },
+    {
+      "id": "GENM3",
+      "codigo": "GENM3",
+      "marca": "MARK'ENNOVY",
+      "modalidad": "mensual",
+      "producto": "GENTLE 80 MULTIFOCAL 3LC",
+      "tipo": "multifocal",
+      "pack": 3,
+      "precio": 82
+    },
+    {
+      "id": "EYEMT6",
+      "codigo": "EYEMT6",
+      "marca": "Bausch & Lomb",
+      "modalidad": "mensual",
+      "producto": "ULTRA MULTIFOCAL TORIC 6LC",
+      "tipo": "multifocal_torica",
+      "pack": 6,
+      "precio": 122
+    },
+    {
+      "id": "TECMT3",
+      "codigo": "TECMT3",
+      "marca": "CIONE",
+      "modalidad": "mensual",
+      "producto": "TECHNO SILICONA MULTIFOCAL TORIC (SAPHIR XR) 3LC",
+      "tipo": "multifocal_torica",
+      "pack": 3,
+      "precio": 88
+    },
+    {
+      "id": "BIOMT3",
+      "codigo": "BIOMT3",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY MULTIFOCAL TORIC XR 3LC",
+      "tipo": "multifocal_torica",
+      "pack": 3,
+      "precio": 72
+    },
+    {
+      "id": "BIOMT6",
+      "codigo": "BIOMT6",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "BIOFINITY MULTIFOCAL TORIC XR 6LC",
+      "tipo": "multifocal_torica",
+      "pack": 6,
+      "precio": 136
+    },
+    {
+      "id": "PROMT3",
+      "codigo": "PROMT3",
+      "marca": "COOPERVISION",
+      "modalidad": "mensual",
+      "producto": "PROCLEAR MULTIFOCAL TORIC XR 3LC",
+      "tipo": "multifocal_torica",
+      "pack": 3,
+      "precio": 66
+    },
+    {
+      "id": "FRE2",
+      "codigo": "FRE2",
+      "marca": "ALCON",
+      "modalidad": "mensual",
+      "producto": "FRESH LOOK COLORBLENDS 2LC",
+      "tipo": "color",
+      "pack": 2,
+      "precio": 36
+    },
+    {
+      "id": "FRE2-2",
+      "codigo": "FRE2",
+      "marca": "OTHERS",
+      "modalidad": "mensual",
+      "producto": "DISOP FANTASIA HALLOWEEN MENSUAL 2LC",
+      "tipo": "color",
+      "pack": 2,
+      "precio": 28
+    }
+  ]
+}
