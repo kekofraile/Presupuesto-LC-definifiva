@@ -1,9 +1,9 @@
 {
-  "name": "Presupuesto LC Offline",
-  "short_name": "Presupuesto LC",
-  "start_url": ".",
+  "name": "Presupuesto LC",
+  "short_name": "LC",
+  "start_url": "/Presupuesto-LC-definifiva/",
+  "scope": "/Presupuesto-LC-definifiva/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2563eb",
-  "icons": []
+  "theme_color": "#2563eb"
 }
